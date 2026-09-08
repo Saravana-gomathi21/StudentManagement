@@ -1,2 +1,2 @@
 Name: Saravana gomathi
-Department: CSE
+Department: Comp Engg
